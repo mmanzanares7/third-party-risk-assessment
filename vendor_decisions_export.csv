@@ -1,0 +1,9 @@
+Vendor,Tier,Inherent score,Control score,Control rating,Residual risk,SOC 2 conclusion,Last assessed,Next due,Reassessment,Decision,Required actions
+Nimbus Cloud Hosting,Tier 1,2.75,91%,Strong,Moderate,Acceptable,2025-12-01,2026-12-01,Current,Approve and monitor,Confirm MFA is enforced for all administrative access; get evidence that subcontractors are assessed.
+Brightpath Software,Tier 1,2.6,72%,Adequate,High,Report is 14 months old: request a bridge letter,2025-03-20,2026-03-20,OVERDUE,Approve with conditions and a remediation deadline,"Overdue reassessment. Obtain a bridge letter for the SOC 2 gap, require MFA, and map the 4 unmapped user entity controls."
+Summit IT Services,Tier 1,2.5,53%,Weak,Critical,Required but not provided: obtain alternative evidence,2025-02-01,2026-02-01,OVERDUE,Do not onboard or renew until critical gaps are fixed,"Overdue reassessment. Do not renew until MFA, termination procedures and an independent security audit are in place."
+Keystone Legal LLP,Tier 2,1.95,80%,Adequate,Moderate,Not required,2025-03-10,2027-03-10,Current,Approve and monitor,"Request evidence of encryption of files in transit, and a tested incident notification process."
+Pinecrest Staffing,Tier 2,1.85,43%,Weak,High,Not required,2024-09-01,2026-09-01,OVERDUE,Approve with conditions and a remediation deadline,Overdue reassessment. Require access to be removed at the end of each assignment and MFA for system access.
+Oakmont Audit Partners,Tier 2,2.1,94%,Strong,Low,Not required,2026-01-15,2028-01-15,Current,Approve,No action. Confirm incident response testing at next cycle.
+Lighthouse Training Co,Tier 3,1,83%,Adequate,Low,Not required,2024-06-01,2027-06-01,Current,Approve,Collect a signed security attestation at renewal.
+Harvest Food Service,Tier 3,1,n/a,Not assessed,Not assessed,Not required,2025-05-01,2028-05-01,Current,"Approve: Tier 3, attestation only",None required.
